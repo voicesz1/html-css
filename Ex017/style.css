@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font: normal 16px arial, verdana, serif;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: right;
+}
+
+p {
+    justify-content: center;
+    text-indent: 20px;
+}
